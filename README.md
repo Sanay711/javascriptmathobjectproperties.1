@@ -1,0 +1,1 @@
+# javascriptmathobjectproperties.1
